@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to baogegeJiang's Pages
 
-You can use the [editor on GitHub](https://github.com/baogegeJiang/baogege.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jiang Yiran. And my nick name is baogege. So it's why the page named baogegeJiang.
+
+I'm a master student in Peking Unversity majoring in geophysics. 
+
+You can contact me var email: baogege@pku.edu.cn
+
+I would like to share some research code there. Some of them have already been down. Most of them is on going.  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
