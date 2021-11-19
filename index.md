@@ -1,11 +1,20 @@
-## Welcome to baogegeJiang's Pages
+# Welcome to baogegeJiang's Pages
 
 My name is Jiang Yiran. And my nick name is baogege. So it's why the page named baogegeJiang.
 
-I'm a master student in Peking Unversity majoring in geophysics. 
+I'm a Phd student in Peking Unversity majoring in geophysics. 
 
 You can contact me var email: baogege@pku.edu.cn
 
 I would like to share some research code there. Some of them have already been done. Most of them is on going.  
 
+## programs
+
+### SeismTool: https://github.com/baogegeJiang/SeismTool
+
+this is a combined packages(APP,APP++:array assistant automatic earthquake detection; )
+
+
+## Researches:
+基于支持向量机的地震体波震相自动识别及到时自动拾取
 
